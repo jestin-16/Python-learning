@@ -15,5 +15,14 @@
 # age = 20
 # is_new = True
 
-name = input("Enter your name: ")
-print("Hello, "+ name)
+# name = input("Enter your name: ")
+# color = input("Enter your favourite color: ")
+# print(name +' likes '+ color)
+#
+# birth_year = input('Birth Year: ')
+# print(type(birth_year))
+# age =2025-int(birth_year)
+# print(age)
+weight=input("enter your weight")
+weight_kilogram= int(weight)*0.45
+print(weight_kilogram)
