@@ -1,3 +1,4 @@
+import math
 # print("Jestin Shaji")
 #
 # print('o----')
@@ -50,4 +51,28 @@
 #
 # print('p' in course)
 
+
+# print(10 + 3)
+# print(10 ** 3)
+# x=3
+# x+=3
+# print(x)
+# x=2.9
+# print(round(x))
+#
+# print(abs(-2.9))
+
+# print(math.ceil(2.9))
+is_hot = True
+is_cold=True
+if is_hot:
+    print('''It's a hot day
+    Drink plenty of water
+    Enjoy your day''')
+elif is_cold:
+    print('''It's a cold day
+    Wear warm clothes
+    ''')
+else:
+    print('''It's a lovely day''')
 
