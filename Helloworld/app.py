@@ -63,16 +63,32 @@ import math
 # print(abs(-2.9))
 
 # print(math.ceil(2.9))
-is_hot = True
-is_cold=True
-if is_hot:
-    print('''It's a hot day
-    Drink plenty of water
-    Enjoy your day''')
-elif is_cold:
-    print('''It's a cold day
-    Wear warm clothes
-    ''')
-else:
-    print('''It's a lovely day''')
+# is_hot = True
+# is_cold=True
+# if is_hot:
+#     print('''It's a hot day
+#     Drink plenty of water
+#     Enjoy your day''')
+# elif is_cold:
+#     print('''It's a cold day
+#     Wear warm clothes
+#     ''')
+# else:
+#     print('''It's a lovely day''')
+
+# price=10000
+# good_credit=True
+# if good_credit:
+#     down_payment=price* 0.1
+#
+# has_high_income=True
+# has_good_credit=True
+# if has_high_income and has_good_credit:
+#     print("Eligible for loan")
+#
+#and when both are true
+#or when any of them is true
+
+
+
 
