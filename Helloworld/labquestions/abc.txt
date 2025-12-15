@@ -1,0 +1,4 @@
+This program opens a file in read mode and reads it line by line using a loop.
+Each line is stored as an element in a list after removing newline characters.
+The list containing all lines is then displayed.
+The list containing all lines is then displayed.
