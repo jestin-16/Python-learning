@@ -1,2 +1,2 @@
 n=5
-print(n*n)
+print(n*na)
